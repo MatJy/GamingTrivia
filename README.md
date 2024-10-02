@@ -18,4 +18,4 @@ Sovelluksen tausta: https://uiverse.io/BadlyWrittenStylesheet/bad-baboon-47
 
 ## Tekoälyn käyttö
 
-Tekoälyä en käyttänyt paljoa, vain parissa kohtaa. Score.svelte:ssä OnMount funktiota en osannut itse tehdä, joten chatGPT teki sen minulle. Tekoälyä käytin myös välillä, jos piti ratkoa virheitä jo valmiista kirjoittamastani koodista.
+Tekoälyä en käyttänyt paljoa, vain parissa kohtaa. Esimerkiksi Score.svelte:ssä OnMount funktiossa chatGPT auttoi. Tekoälyä käytin myös välillä, jos piti ratkoa virheitä jo valmiista kirjoittamastani koodista.
