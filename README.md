@@ -13,6 +13,3 @@ Täältä löysin API:n: https://opentdb.com/api_config.php
 
 Sovelluksen tausta: https://uiverse.io/BadlyWrittenStylesheet/bad-baboon-47
 
-## Tekoälyn käyttö
-
-Tekoälyä en käyttänyt lähes ollenkaan, vain parissa kohtaa. Esimerkiksi Score.svelte:ssä OnMount funktiossa chatGPT auttoi. Tekoälyä käytin myös välillä, jos piti ratkoa virheitä jo valmiista kirjoittamastani koodista.
